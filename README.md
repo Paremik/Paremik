@@ -8,6 +8,7 @@ I build practical web applications and interactive interfaces while studying pro
 - **[Niebieski Kot](https://github.com/Paremik/Niebieski_Kot)** — JavaScript web project.
 - **[AudioViz](https://github.com/Paremik/AudioViz)** — Python project exploring audio visualisation.
 - ***[telegram-apartment-bot-opole](https://github.com/Paremik/telegram-apartment-bot-opole)** - project for seek apartments in your city in Poland
+- **[AI Job Application Agent](https://github.com/Paremik/ai-job-agent)** — TypeScript and PostgreSQL project for finding IT vacancies, checking whether remote roles allow work from Poland, and reviewing matches in a local dashboard.
 
 ## Skills I am developing
 
