@@ -1,20 +1,20 @@
-# Artem — student developer
+# Hi, I'm Artem 👋
 
-I build practical web applications and interactive interfaces while studying programming. I am interested in maps, public data, clean UI, and turning ideas into working products.
+I'm a student developer in Poland. I build practical web applications, interactive interfaces and automation tools with TypeScript, React and Python.
 
-## Featured work
+## Selected projects
 
-- **[Opole Camera Map](https://github.com/Paremik/camera-map)** — interactive map of publicly documented cameras in Opole. Built with TypeScript, Next.js, MapLibre and OpenStreetMap; includes search, layers, camera cards, 2D/3D view, incident marking and a mobile-friendly PWA.
-- **[Niebieski Kot](https://github.com/Paremik/Niebieski_Kot)** — JavaScript web project.
-- **[AudioViz](https://github.com/Paremik/AudioViz)** — Python project exploring audio visualisation.
-- ***[telegram-apartment-bot-opole](https://github.com/Paremik/telegram-apartment-bot-opole)** - project for seek apartments in your city in Poland
-- **[AI Job Application Agent](https://github.com/Paremik/ai-job-agent)** — TypeScript and PostgreSQL project for finding IT vacancies, checking whether remote roles allow work from Poland, and reviewing matches in a local dashboard.
+- **[Opole Camera Map](https://github.com/Paremik/camera-map)** — an interactive map built with Next.js, TypeScript and MapLibre. Includes search, map layers, mobile support and a [live demo](https://opole-camera-map.vercel.app/).
+- **[Niebieski Kot](https://github.com/Paremik/Niebieski_Kot)** — a responsive, multilingual café website with an admin panel, server functions and Redis storage. [Live demo](https://niebieski-kot.vercel.app/).
+- **[AI Job Application Agent](https://github.com/Paremik/ai-job-agent)** — a TypeScript and PostgreSQL tool for finding vacancies, reviewing matches and tracking applications across devices.
+- **[Telegram Apartment Bot](https://github.com/Paremik/telegram-apartment-bot-opole)** — a Python bot that monitors rental listings and sends updates through Telegram.
 
-## Skills I am developing
+## What I work with
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Python` · `Git` · `UI/UX` · `OpenStreetMap`
+**Web:** TypeScript, JavaScript, React, Next.js  
+**Data and automation:** Python, data collection, scheduled jobs  
+**Databases:** PostgreSQL, SQLite, Redis; data models, queries and migrations  
+**AI tools:** ChatGPT, Codex, Gemini and DeepSeek for prototyping, debugging and code review  
+**Tools:** Git, GitHub Actions, Vercel, MapLibre, OpenStreetMap
 
-## Contact
-
-- GitHub: [@Paremik](https://github.com/Paremik)
-- Instagram: [@arte.rikk](https://www.instagram.com/arte.rikk/)
+I enjoy turning a practical problem into a usable product — from the interface to the data and deployment.
