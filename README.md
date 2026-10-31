@@ -1,3 +1,5 @@
+![Abstract map, web interfaces and connected data](assets/profile-banner.png)
+
 # Hi, I'm Artem 👋
 
 I'm a student developer in Poland. I build practical web applications, interactive interfaces and automation tools with TypeScript, React and Python.
@@ -18,3 +20,5 @@ I'm a student developer in Poland. I build practical web applications, interacti
 **Tools:** Git, GitHub Actions, Vercel, MapLibre, OpenStreetMap
 
 I enjoy turning a practical problem into a usable product — from the interface to the data and deployment.
+
+**Contact:** [Telegram @arterikk](https://t.me/arterikk)
